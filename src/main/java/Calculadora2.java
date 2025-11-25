@@ -7,5 +7,7 @@ public class Calculadora2 {
         int result = a+b;
 
         System.out.println(result);
+
+        int d = 5;
     }
 }
