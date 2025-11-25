@@ -9,5 +9,7 @@ public class Calculadora2 {
         System.out.println(result);
 
         int d = 5;
+
+        System.out.println("Añado mensaje en main");
     }
 }
